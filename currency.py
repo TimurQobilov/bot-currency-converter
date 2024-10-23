@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot(token="7922175837:AAHNxBLLvBzeLBimjZKVjblPlMQ9slnCt9E")
+bot = telebot.TeleBot(token="")
 
 USD = 11000
 EUR = 12000
